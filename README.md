@@ -27,8 +27,7 @@ Structure:
 
 Running your program:
 
-You will need to write a Makefile with build instructions for your program. It must compile by command-line with the statement: make
-
+*make*
 This should produce the executable proj4.
 
 Your program should then run with the statement: ./proj4
